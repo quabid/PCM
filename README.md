@@ -1,6 +1,6 @@
 ## Custom Python Modules
 
-### _[Based from my Python tutorial projects](https://www.google.com), this repo contains some custom modules that were useful through out the Python tutorials I had taken._
+### _[Based from my Python tutorial projects](https://github.com/quobod/gsp), this repo contains some custom modules that were useful through out the Python tutorials I had taken._
 
 ---
 - Development Platform
